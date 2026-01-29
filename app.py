@@ -103,6 +103,44 @@ LAYOUTS = {
         "TIPO DE ACESSO": "CONSULTOR",
         "DATA DO ENVIO": "data_atual"
     },
+"BRB - INCONTA CRIAÇÃO": {
+        "ID LEV": ("workflow", "ID"),
+        "NOME": ("workflow", "Nome"),
+        "TELEFONE": ("workflow", "Telefone"),
+        "CPF": ("workflow", "CPF"),
+        "EMAIL": ("workflow", "E-Mail"),
+        "CERTIFICAÇÃO": "Certificação",
+        "DATA EMISSÃO": "Aprovacao",
+        "DATA DE VALIDADE": "Validade",
+        "UF": "UF",
+        "DATA DO ENVIO": "data_atual"
+    },
+
+    "BRB - INCONTA RESET": {
+        "ID LEV": ("workflow", "ID"),
+        "NOME": ("workflow", "Nome"),
+        "CPF": ("workflow", "CPF"),
+        "LOGIN": ("workflow", "Usuário Banco"),
+        "UF": "UF",
+        "DATA DO ENVIO": "data_atual"
+    },
+
+    "CAIXA": {
+        "ID LEV": ("workflow", "ID"),
+        "CORBAN": "PLUS",
+        "NOME": ("workflow", "Nome"),
+        "TELEFONE": ("workflow", "Telefone"),
+        "UF": "UF",
+        "NASCIMENTO": ("workflow", "Nascimento"),
+        "CPF": ("workflow", "CPF"),
+        "PERFIL DE ACESSO": "CONSULTOR",
+        "EMAIL": ("workflow", "E-Mail"),
+        "CERTIFICAÇÃO": "Certificação",
+        "DATA EMISSÃO": "Aprovacao",
+        "DATA DE VALIDADE": "Validade",
+        "TIPO DE ACESSO": "CONSULTOR",
+        "DATA DO ENVIO": "data_atual"
+    },
 
     "PARANA CRIAÇÃO": {
         "ID": ("workflow", "ID"),
