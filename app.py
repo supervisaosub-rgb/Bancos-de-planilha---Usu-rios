@@ -174,7 +174,7 @@ LAYOUTS = {
     "EMPRESTEI CARD RESET": {
         "ID": ("workflow", "ID"),
         "CPF": ("workflow", "CPF"),
-        "E-MAIL": ("workflow", "E-Mail"),
+        "E-MAIL": ("workflow", "Usuário Banco"),
         "UF": "UF",
         "DATA DO ENVIO": "data_atual"
     },
