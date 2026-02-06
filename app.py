@@ -104,17 +104,17 @@ LAYOUTS = {
         "DATA DO ENVIO": "data_atual"
     },
 "BRB - INCONTA CRIAÇÃO": {
-        "ID LEV": ("workflow", "ID"),
-        "NOME": ("workflow", "Nome"),
-        "TELEFONE": ("workflow", "Telefone"),
-        "CPF": ("workflow", "CPF"),
-        "EMAIL": ("workflow", "E-Mail"),
-        "CERTIFICAÇÃO": "Certificação",
-        "DATA EMISSÃO": "Aprovacao",
-        "DATA DE VALIDADE": "Validade",
-        "UF": "UF",
-        "DATA DO ENVIO": "data_atual"
-    },
+    "ID LEV": ("workflow", "ID"),
+    "NOME": ("workflow", "Nome"),
+    "TELEFONE": ("workflow", "Telefone"),
+    "CPF": ("workflow", "CPF"),
+    "EMAIL": ("workflow", "E-Mail"),
+    "CERTIFICAÇÃO": "Certificação",
+    "DATA EMISSÃO": "Data Emissao",
+    "DATA DE VALIDADE": "Data Validade",
+    "UF": "UF",
+    "DATA DO ENVIO": "data_atual"
+},
 
     "BRB - INCONTA RESET": {
         "ID LEV": ("workflow", "ID"),
