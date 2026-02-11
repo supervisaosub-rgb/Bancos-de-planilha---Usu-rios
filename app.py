@@ -183,6 +183,7 @@ LAYOUTS = {
         "Promotora": "LEV",
         "CPF": ("workflow", "CPF"),
         "Nome": ("workflow", "Nome"),
+	"NASCIMENTO": ("workflow", "Nascimento"),
         "Email": ("workflow", "E-Mail"),
         "Telefone": ("workflow", "Telefone"),
         "UF": "UF",
